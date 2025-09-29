@@ -1,6 +1,3 @@
-Com certeza\! Criar um bom arquivo `README.md` é essencial para qualquer projeto no GitHub. Ele serve como a "porta de entrada" para o seu código, explicando o que ele faz e como usá-lo.
-
-Aqui está um `README.md` no padrão comum do GitHub, adaptado para o seu código em Node.js:
 
 -----
 
